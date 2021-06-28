@@ -1,0 +1,188 @@
+
+.start{
+  color: gold;
+  padding:  10px;
+}
+
+
+.container {
+  /*width:100vw;
+  /*height: 200vw;*/
+    border: 3px solid #fff;
+    padding: 20px;
+    background-color: rgb(5, 50, 107);
+    align-items: center;
+}
+.nav {
+    /*width: 30%;
+    /*float: center;*/
+    padding: 20px;
+    border: 2px solid red;
+    display: flex;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}  
+.Date{
+  display:  flex;
+}
+
+.datepicker{
+  flex: 1;
+border: 0px solid yellow;
+display: flex;
+padding: 20px;
+     align-items: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.datepickerbutton{
+  flex: 1;
+border: 0px solid yellow;
+display: flex;
+padding: 20px;
+     align-items: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dateButton{
+  height: 100%;
+  width: 100%;
+  font-size: 100%
+}
+.stockcodeselect{
+  display: flex;
+flex: 1;
+border: 0px solid yellow;
+}
+.forecast{
+  display: flex;
+flex: 1;
+border: 0px solid yellow;
+}
+.info {
+  /*width: 100vw;
+  /*height: 100vw;*/
+  display:  flex;
+  background-color: rgb(5, 50, 107);
+ 
+}
+
+.content {
+    /*width: 30%;
+    /*float: left;*/
+    padding: 20px;
+    border: 2px solid red;
+    flex: 2;
+     align-items: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+    background-color: white;
+}  
+
+.plots{
+    /*width: 40%;
+    /*float: left;*/
+    padding: 20px;
+    border: 2px solid red;
+    flex: 1;
+     align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+    background-color: white;
+}  
+/*
+.container {
+  width: 100vw;
+  height: 40vw;
+  
+  background-color: rgb(5, 50, 107);
+ 
+}
+
+
+.nav{
+  width: 30%;
+  align-items: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+   padding: 60;
+     padding-top: 100px;
+  padding-bottom: 30px;
+  float: left;
+}
+
+.content{
+   width: 70%;
+  align-items: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+   padding: 60;
+     padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 80px;
+    background-color: white;
+    float: left;
+}
+*/
+.header{
+  
+  align-items: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+   padding: 60;
+     padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+
+}
+
+.decription_ticker{
+  color: black;
+  align-items: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+   padding: 60;
+     padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+}
+
+.Submit{
+   align-items: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+   padding: 60;
+
+}
+
+
+.username_submit{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
