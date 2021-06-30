@@ -1,7 +1,5 @@
 import numpy
-import matplotlib.pyplot as plt
 import pandas
-import math
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import LSTM
